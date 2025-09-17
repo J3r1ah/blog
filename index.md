@@ -1,7 +1,11 @@
-# Riah Dev Blog 
+# Chef Riah's Dev Blog 
 
 
 
+<img src="/blog/images/rudo.png" alt="rudo" height="300x" width="300px">
+
+
+# Posts
 <ul>
   {% for post in site.posts %}
     <li>
